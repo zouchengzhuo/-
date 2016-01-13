@@ -1,0 +1,19 @@
+{
+  "name": "webpacklearn",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "webpack test"
+  },
+  "author": "zcz",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.23.0",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9"
+  }
+}
